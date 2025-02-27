@@ -2,4 +2,5 @@ Title:
 <MY SUPER AWESOME PROJECT TITLE>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Many people who own stocks don’t have enough financial knowledge to un- derstand the stock market. This project aims to empower investors by iden- tifying the key drivers behind stock returns, providing actionable insights to guide decision-making and mitigate risks. To achieve this, we develop a multi- model framework that integrates sentiment analysis, historical stock data, and macroeconomic indicators. Public sentiment, a crucial factor in stock market dynamics, is analyzed using FinBERT on company-specific tweet data. Historical stock performance is modeled using DeepAR, while macro and mi- croeconomic factors, such as GDP, CPI, and company reports, are processed through a nowcasting model. Feature selection is performed using causal learning techniques, and the outputs of these models are synthesized via a fusion layer to produce comprehensive predictions. By combining diverse data sources and advanced modeling techniques, this project aims to offer a clear and accessible understanding of the factors influencing stock returns, supporting better investment decisions.
+
